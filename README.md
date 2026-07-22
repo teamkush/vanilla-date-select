@@ -1460,7 +1460,7 @@ Add the single JavaScript file to your HTML via the jsDelivr CDN. It automatical
 
 ```html
 <!-- Add this before your closing </body> tag -->
-<script src="[https://cdn.jsdelivr.net/gh/teamkush/linear-date-picker@1.0.0/light-date-widget.min.js](https://cdn.jsdelivr.net/gh/teamkush/linear-date-picker@1.0.0/light-date-widget.min.js)"></script>
+<script src="[https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/linear-date-picker@1.0.0/light-date-widget.min.js](https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/linear-date-picker@1.0.0/light-date-widget.min.js)"></script>
 (Replace YOUR_GITHUB_USERNAME with your actual GitHub handle)
 
 💻 Usage
@@ -1530,7 +1530,7 @@ Add the single JavaScript file to your HTML via the jsDelivr CDN. It automatical
 
 ```html
 <!-- Add this before your closing </body> tag -->
-<script src="[https://cdn.jsdelivr.net/gh/teamkush/vanilla-date-select@1.0.0/light-date-widget.min.js](https://cdn.jsdelivr.net/gh/teamkush/vanilla-date-select@1.0.0/light-date-widget.min.js)"></script>
+<script src="[https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/vanilla-date-select@1.0.0/light-date-widget.min.js](https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/vanilla-date-select@1.0.0/light-date-widget.min.js)"></script>
 (Replace YOUR_GITHUB_USERNAME with your actual GitHub handle)
 
 💻 Usage
@@ -1745,7 +1745,7 @@ Add the single JavaScript file to your HTML via the jsDelivr CDN. It automatical
 
 ```html
 <!-- Add this before your closing </body> tag -->
-<script src="https://cdn.jsdelivr.net/gh/teamkush/vanilla-date-select@1.0.0/light-date-widget.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/vanilla-date-select@1.0.0/light-date-widget.min.js"></script>
 ```
 *(Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle)*
 
