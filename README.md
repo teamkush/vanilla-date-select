@@ -18,3 +18,22 @@ Add the single JavaScript file to your HTML via the jsDelivr CDN. It automatical
 ```html
 <!-- Add this before your closing </body> tag -->
 <script src="[https://cdn.jsdelivr.net/gh/teamkush/vanilla-date-select@1.0.0/light-date-widget.min.js](https://cdn.jsdelivr.net/gh/teamkush/vanilla-date-select@1.0.0/light-date-widget.min.js)"></script>
+
+## Basic Usage
+<div type="date"></div>
+
+## Advanced Usage with Form Integration
+<form action="/submit" method="POST">
+  <label>Date of Birth:</label>
+  
+  <div 
+    type="date" 
+    name="dob" 
+    startdate="1950-01-01" 
+    enddate="2024-12-31" 
+    value="1995-08-24" 
+    required>
+  </div>
+  
+  <button type="submit">Save</button>
+</form>
